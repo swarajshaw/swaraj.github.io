@@ -654,17 +654,18 @@ footer {
 }
 
 #contact h2 {
-  font-size: 16px;
-  margin-bottom: 30px;
+  font-size: 20px;
+  margin-bottom: 20px;
   text-align: left;
+  padding: 5px;
 }
 
 #contact-form {
   margin: 0 auto;
   max-width: 600px;
-  padding: 30px;
+  padding: 5px;
   background-color: #fff;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  /* box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); */
 }
 
 #contact-form input[type="text"],
@@ -672,8 +673,8 @@ footer {
 #contact-form textarea {
   display: block;
   width: 100%;
-  padding: 10px;
-  margin-bottom: 20px;
+  padding: 5px;
+  margin-bottom: 10px;
   border: 1px solid #ccc;
   border-radius: 5px;
 }
